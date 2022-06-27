@@ -1,0 +1,9 @@
+{
+	"name": "ramvenkat1309",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c042ee19-cfce-4c46-bd04-06691c95e9a5",
+		"tenantId": "02d8aa5c-9f9c-4061-947d-b202b9244ac8"
+	}
+}
