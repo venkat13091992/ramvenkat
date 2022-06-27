@@ -1,0 +1,19 @@
+{
+	"name": "pipeline1_mrkting",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait1",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 20
+				}
+			}
+		],
+		"annotations": [
+			"marketing"
+		]
+	}
+}
