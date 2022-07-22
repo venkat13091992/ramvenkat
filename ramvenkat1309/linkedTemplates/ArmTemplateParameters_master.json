@@ -5,6 +5,18 @@
 		"factoryName": {
 			"value": "ramvenkat1309"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage2_properties_typeProperties_connectionString_secretName": {
+			"value": "sec-bs-venkat1309"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://kv-rv1309.vault.azure.net/"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_connectionString_secretName": {
+			"value": "sec-bs-venkat1309"
+		},
 		"containerUri": {
 			"value": ""
 		},
