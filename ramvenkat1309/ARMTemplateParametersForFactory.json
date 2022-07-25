@@ -16,6 +16,12 @@
 		},
 		"AzureSqlDatabase1_properties_typeProperties_connectionString_secretName": {
 			"value": "sec-bs-venkat1309"
+		},
+		"RestService1_properties_typeProperties_url": {
+			"value": " http://restapi.adequateshop.com"
+		},
+		"RestService2_properties_typeProperties_url": {
+			"value": "http://restapi.adequateshop.com"
 		}
 	}
 }
